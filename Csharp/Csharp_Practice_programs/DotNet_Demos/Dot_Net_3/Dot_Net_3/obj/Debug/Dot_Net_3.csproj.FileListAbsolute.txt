@@ -1,0 +1,7 @@
+C:\Users\adikesavat\source\repos\Dot_Net_3\Dot_Net_3\obj\Debug\Dot_Net_3.csproj.AssemblyReference.cache
+C:\Users\adikesavat\source\repos\Dot_Net_3\Dot_Net_3\obj\Debug\Dot_Net_3.csproj.CoreCompileInputs.cache
+C:\Users\adikesavat\source\repos\Dot_Net_3\Dot_Net_3\bin\Debug\Dot_Net_3.exe.config
+C:\Users\adikesavat\source\repos\Dot_Net_3\Dot_Net_3\bin\Debug\Dot_Net_3.exe
+C:\Users\adikesavat\source\repos\Dot_Net_3\Dot_Net_3\bin\Debug\Dot_Net_3.pdb
+C:\Users\adikesavat\source\repos\Dot_Net_3\Dot_Net_3\obj\Debug\Dot_Net_3.exe
+C:\Users\adikesavat\source\repos\Dot_Net_3\Dot_Net_3\obj\Debug\Dot_Net_3.pdb
