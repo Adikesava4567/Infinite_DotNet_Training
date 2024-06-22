@@ -1,3 +1,2 @@
 Infinite
-DotNet Training
- 1)C sharp
+DotNet Training : Csharp, SQL, HTML,CSS, JScript, ASP.NET, .Net Core
