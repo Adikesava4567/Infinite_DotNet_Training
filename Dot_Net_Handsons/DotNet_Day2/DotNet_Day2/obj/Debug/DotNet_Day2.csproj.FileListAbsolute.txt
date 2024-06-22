@@ -1,7 +1,0 @@
-C:\Users\adikesavat\infinite\Dot_Net_Handsons\DotNet_Day2\DotNet_Day2\obj\Debug\DotNet_Day2.csproj.AssemblyReference.cache
-C:\Users\adikesavat\infinite\Dot_Net_Handsons\DotNet_Day2\DotNet_Day2\obj\Debug\DotNet_Day2.csproj.CoreCompileInputs.cache
-C:\Users\adikesavat\infinite\Dot_Net_Handsons\DotNet_Day2\DotNet_Day2\bin\Debug\DotNet_Day2.exe.config
-C:\Users\adikesavat\infinite\Dot_Net_Handsons\DotNet_Day2\DotNet_Day2\bin\Debug\DotNet_Day2.exe
-C:\Users\adikesavat\infinite\Dot_Net_Handsons\DotNet_Day2\DotNet_Day2\bin\Debug\DotNet_Day2.pdb
-C:\Users\adikesavat\infinite\Dot_Net_Handsons\DotNet_Day2\DotNet_Day2\obj\Debug\DotNet_Day2.exe
-C:\Users\adikesavat\infinite\Dot_Net_Handsons\DotNet_Day2\DotNet_Day2\obj\Debug\DotNet_Day2.pdb
