@@ -1,7 +1,0 @@
-C:\Users\adikesavat\source\repos\DotNet_3\DotNet_3\bin\Debug\DotNet_3.exe.config
-C:\Users\adikesavat\source\repos\DotNet_3\DotNet_3\bin\Debug\DotNet_3.exe
-C:\Users\adikesavat\source\repos\DotNet_3\DotNet_3\bin\Debug\DotNet_3.pdb
-C:\Users\adikesavat\source\repos\DotNet_3\DotNet_3\obj\Debug\DotNet_3.csproj.AssemblyReference.cache
-C:\Users\adikesavat\source\repos\DotNet_3\DotNet_3\obj\Debug\DotNet_3.csproj.CoreCompileInputs.cache
-C:\Users\adikesavat\source\repos\DotNet_3\DotNet_3\obj\Debug\DotNet_3.exe
-C:\Users\adikesavat\source\repos\DotNet_3\DotNet_3\obj\Debug\DotNet_3.pdb
