@@ -1,2 +1,2 @@
 Infinite
-DotNet Training : Csharp, SQL, HTML,CSS, JScript, ASP.NET, .Net Core
+DotNet Training : Csharp, SQL, ADO.Net, HTML, CSS, JScript, JQuery, ASP.Net, ASP.Net Core
